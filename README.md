@@ -2,4 +2,4 @@
 
 The repository contains the code for the experiments conducted for this book chapter.
 
-If you need assistance with the code, contact: bkraft@bgc-jena.mpg.de
+If you need assistance with the code, contact: bkraft@bgc-jena.mpg.de or sbesnard@bgc-jena.mpg.de
